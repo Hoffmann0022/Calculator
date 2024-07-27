@@ -1,0 +1,38 @@
+
+
+.number{
+    padding: 10px;
+    
+    color: #f1f1f1;
+    font-size: 2rem;
+    font-weight: 600;
+
+    background-color: #222;
+
+    border: none;
+    border-radius: 1rem;
+
+    cursor: pointer;
+    transition: .2s all ease-in-out;
+}
+
+.operation{
+
+    padding: 10px;
+
+    color: #f89c11;
+    font-size: 2rem;
+    font-weight: 600;
+
+    background-color: #222;
+
+    border: none;
+    border-radius: 1rem;
+
+    cursor: pointer;
+    transition: .2s all ease-in-out;
+}
+
+.number:hover, .operation:hover{
+    background-color: #4746469f;
+}
